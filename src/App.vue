@@ -97,9 +97,12 @@ Device: ${qdevice} `,
 }
 logTlgConnect("");
 </script>
-<style scoped></style>
 
 <style scoped>
+.ymain {
+  width: 100%;
+  overflow: hidden;
+}
 .doneshow {
   display: block !important;
 }

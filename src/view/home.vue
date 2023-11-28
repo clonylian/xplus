@@ -2919,10 +2919,10 @@ ul {
 }
 .section-xwallet .list-group > li:nth-child(2n) .item-box > h2 {
   justify-content: flex-end;
-  padding: 0 50% 0 15px;
+  padding: 0 52.5% 0 15px;
 }
 .section-xwallet .list-group > li:nth-child(2n) .item-box > p {
-  padding: 20px 50% 20px 30px;
+  padding: 20px 52.5% 20px 30px;
 }
 .section-xwallet .list-group > li:nth-child(2n) .clip-group-box {
   left: unset;
