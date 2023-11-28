@@ -2160,11 +2160,11 @@ ul {
 .ytwo {
   padding: 3.125rem 0 6.15rem;
 }
-.wrapper {
+.ytwo .wrapper {
   width: 100%;
   max-width: 59.07837%;
   min-width: 18.46199%;
-  margin: -5rem auto 0;
+  margin: -15rem auto 0;
   padding: 0 0.625rem;
 }
 .section-earning .earning-progress {
